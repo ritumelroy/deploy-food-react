@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-food-react/static/css/main.f81fe396.chunk.css",
+    "main.js": "/deploy-food-react/static/js/main.48683b49.chunk.js",
+    "main.js.map": "/deploy-food-react/static/js/main.48683b49.chunk.js.map",
+    "runtime-main.js": "/deploy-food-react/static/js/runtime-main.4e832e21.js",
+    "runtime-main.js.map": "/deploy-food-react/static/js/runtime-main.4e832e21.js.map",
+    "static/js/2.645e5947.chunk.js": "/deploy-food-react/static/js/2.645e5947.chunk.js",
+    "static/js/2.645e5947.chunk.js.map": "/deploy-food-react/static/js/2.645e5947.chunk.js.map",
+    "index.html": "/deploy-food-react/index.html",
+    "precache-manifest.4322c7dc53cf28f2daa0ef435acc4de1.js": "/deploy-food-react/precache-manifest.4322c7dc53cf28f2daa0ef435acc4de1.js",
+    "service-worker.js": "/deploy-food-react/service-worker.js",
+    "static/css/main.f81fe396.chunk.css.map": "/deploy-food-react/static/css/main.f81fe396.chunk.css.map",
+    "static/js/2.645e5947.chunk.js.LICENSE.txt": "/deploy-food-react/static/js/2.645e5947.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/deploy-food-react/static/media/kyoto-mobile.ccd35cfc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e832e21.js",
+    "static/js/2.645e5947.chunk.js",
+    "static/css/main.f81fe396.chunk.css",
+    "static/js/main.48683b49.chunk.js"
+  ]
+}
